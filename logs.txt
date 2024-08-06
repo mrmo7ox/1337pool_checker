@@ -1,0 +1,11 @@
+[+] 2024-08-06 21:56:17.592661 => Error making request: 'Response' object has no attribute 'getheaders'
+[+] 2024-08-06 21:56:32.451586 => Error making request: 'CaseInsensitiveDict' object is not callable
+[+] 2024-08-06 21:56:39.918830 => Error making request: too many values to unpack (expected 2)
+[+] 2024-08-06 21:58:21.468073 => Error making request: 'CaseInsensitiveDict' object is not callable
+[+] 2024-08-06 22:00:25.239908 => Error making request: string indices must be integers
+[+] 2024-08-06 22:00:39.514430 => Error making request: 'str' object has no attribute 'get'
+[+] 2024-08-06 22:02:30.440819 => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjE3MDIxMywiaWF0IjoxNzIyOTc4MTUwLCJleHAiOjE3MjMwNjQ1NTB9.YR33QilD0RQybw7RnmYo3Lx3iZl8lcIBOK6R4EnqY0Y
+[+] 2024-08-06 22:09:31.714784 => Error making request: 'Response' object has no attribute 'status'
+[+] 2024-08-06 22:09:42.497948 => Error making request: 403
+[+] 2024-08-06 22:09:58.216717 => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjE3MDIxMywiaWF0IjoxNzIyOTc4NTk4LCJleHAiOjE3MjMwNjQ5OTh9.oResOscXXrErmt5am3XG5I7pvblTftfcxft8-QVqXhM
+[+] 2024-08-06 22:10:56.835097 => Error making request: 403
